@@ -26,5 +26,10 @@ namespace Lab1.Controllers
 
             return View();
         }
+
+        public ActionResult Gallery()
+        {
+            return View();
+        }
     }
 }
